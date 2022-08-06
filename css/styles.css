@@ -1,0 +1,38 @@
+
+* {
+box-sizing: border-box;
+margin-top: 5px;
+}
+
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.altura1{
+    height: 400px;
+}
+
+.altura2{
+    height: 50px;
+}
+
+.verde{
+    background-color: rgb(17, 119, 29);
+}
+
+.morado{
+    background-color: blueviolet;
+}
+
+.rosado{
+    background-color: pink  ;
+}
+
+.cafe{
+    background-color: brown;
+}
+
+.gris{
+    background-color: gray;
+}
